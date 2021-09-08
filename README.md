@@ -11,3 +11,5 @@ Collection Chest X Ray of Healthy vs Pneumonia (Corona) affected patients infect
 Images name and labels are available in ChestXrayCorona_Metadata.csv
 
 Here i have make djnago projet and in backend running out deep learning model. When you upload an x-ray image it predit and give you result whether it is positive or negative.
+
+Link of model implement https://colab.research.google.com/drive/1ZD1-4AkSBjCvZWslz_rWGiFMSR2JVJME?usp=sharing
